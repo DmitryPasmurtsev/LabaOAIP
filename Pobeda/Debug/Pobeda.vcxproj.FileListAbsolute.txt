@@ -1,0 +1,3 @@
+C:\Users\USER\Desktop\Лаба ОАиП\Pobeda\Pobeda\Debug\Pobeda.vcxproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Лаба ОАиП\Pobeda\Pobeda\Debug\Pobeda.MyForm.resources
+C:\Users\USER\Desktop\Лаба ОАиП\Pobeda\Pobeda\Debug\Pobeda.vcxproj.GenerateResource.cache
